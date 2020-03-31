@@ -1,0 +1,24 @@
+{
+  "name": "@telegramv/schema",
+  "version": "108",
+  "description": "Current TL-schema as NPM package.",
+  "author": "Davyd Kohut",
+  "license": "MIT",
+  "main": "schema/current.js",
+  "files": [
+    "schema/**/*"
+  ],
+  "keywords": [
+    "type-language",
+    "typelanguage",
+    "telegram",
+    "mtproto"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TelegramV/Schema"
+  },
+  "bugs": {
+    "url": "https://github.com/TelegramV/Schema/issues"
+  }
+}
