@@ -1,1 +1,1 @@
-declare module "@telegramv/mtproto";
+declare module "@telegramv/schema/mtproto";
