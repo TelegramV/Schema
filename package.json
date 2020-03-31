@@ -1,6 +1,6 @@
 {
   "name": "@telegramv/schema",
-  "version": "2.108.0",
+  "version": "2.108.1",
   "description": "Current TL-schema as NPM package.",
   "author": "Davyd Kohut",
   "license": "MIT",
