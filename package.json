@@ -1,10 +1,10 @@
 {
-  "name": "@telegramv/schema",
-  "version": "2.108.3",
+  "name": "protov-tl-schema",
+  "version": "2.117.0",
   "description": "Current TL-schema as NPM package.",
   "author": "Davyd Kohut",
   "license": "MIT",
-  "main": "schema/current.js",
+  "main": "schema/113.js",
   "files": [
     "schema/**/*"
   ],

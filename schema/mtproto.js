@@ -1,14 +1,18 @@
 Object.defineProperty(exports, "__esModule", {value: true});
 
+const MTProto = 0;
+
 exports.default = {
     "constructors": [
         {
-            "id": "481674261",
+            "@": MTProto,
+            "id": 481674261,
             "predicate": "vector",
             "params": [],
             "type": "Vector t"
         },
         {
+            "@": MTProto,
             "id": 85337187,
             "predicate": "resPQ",
             "params": [
@@ -32,6 +36,7 @@ exports.default = {
             "type": "ResPQ"
         },
         {
+            "@": MTProto,
             "id": -2083955988,
             "predicate": "p_q_inner_data",
             "params": [
@@ -63,6 +68,7 @@ exports.default = {
             "type": "P_Q_inner_data"
         },
         {
+            "@": MTProto,
             "id": 2043348061,
             "predicate": "server_DH_params_fail",
             "params": [
@@ -82,6 +88,7 @@ exports.default = {
             "type": "Server_DH_Params"
         },
         {
+            "@": MTProto,
             "id": -790100132,
             "predicate": "server_DH_params_ok",
             "params": [
@@ -101,6 +108,7 @@ exports.default = {
             "type": "Server_DH_Params"
         },
         {
+            "@": MTProto,
             "id": -1249309254,
             "predicate": "server_DH_inner_data",
             "params": [
@@ -132,6 +140,7 @@ exports.default = {
             "type": "Server_DH_inner_data"
         },
         {
+            "@": MTProto,
             "id": 1715713620,
             "predicate": "client_DH_inner_data",
             "params": [
@@ -155,6 +164,7 @@ exports.default = {
             "type": "Client_DH_Inner_Data"
         },
         {
+            "@": MTProto,
             "id": 1003222836,
             "predicate": "dh_gen_ok",
             "params": [
@@ -174,6 +184,7 @@ exports.default = {
             "type": "Set_client_DH_params_answer"
         },
         {
+            "@": MTProto,
             "id": 1188831161,
             "predicate": "dh_gen_retry",
             "params": [
@@ -193,6 +204,7 @@ exports.default = {
             "type": "Set_client_DH_params_answer"
         },
         {
+            "@": MTProto,
             "id": -1499615742,
             "predicate": "dh_gen_fail",
             "params": [
@@ -212,6 +224,7 @@ exports.default = {
             "type": "Set_client_DH_params_answer"
         },
         {
+            "@": MTProto,
             "id": -212046591,
             "predicate": "rpc_result",
             "params": [
@@ -227,6 +240,7 @@ exports.default = {
             "type": "RpcResult"
         },
         {
+            "@": MTProto,
             "id": 558156313,
             "predicate": "rpc_error",
             "params": [
@@ -242,18 +256,21 @@ exports.default = {
             "type": "RpcError"
         },
         {
+            "@": MTProto,
             "id": 1579864942,
             "predicate": "rpc_answer_unknown",
             "params": [],
             "type": "RpcDropAnswer"
         },
         {
+            "@": MTProto,
             "id": -847714938,
             "predicate": "rpc_answer_dropped_running",
             "params": [],
             "type": "RpcDropAnswer"
         },
         {
+            "@": MTProto,
             "id": -1539647305,
             "predicate": "rpc_answer_dropped",
             "params": [
@@ -273,6 +290,7 @@ exports.default = {
             "type": "RpcDropAnswer"
         },
         {
+            "@": MTProto,
             "id": 155834844,
             "predicate": "future_salt",
             "params": [
@@ -292,6 +310,7 @@ exports.default = {
             "type": "FutureSalt"
         },
         {
+            "@": MTProto,
             "id": -1370486635,
             "predicate": "future_salts",
             "params": [
@@ -311,6 +330,7 @@ exports.default = {
             "type": "FutureSalts"
         },
         {
+            "@": MTProto,
             "id": 880243653,
             "predicate": "pong",
             "params": [
@@ -326,6 +346,7 @@ exports.default = {
             "type": "Pong"
         },
         {
+            "@": MTProto,
             "id": -501201412,
             "predicate": "destroy_session_ok",
             "params": [
@@ -337,6 +358,7 @@ exports.default = {
             "type": "DestroySessionRes"
         },
         {
+            "@": MTProto,
             "id": 1658015945,
             "predicate": "destroy_session_none",
             "params": [
@@ -348,6 +370,7 @@ exports.default = {
             "type": "DestroySessionRes"
         },
         {
+            "@": MTProto,
             "id": -1631450872,
             "predicate": "new_session_created",
             "params": [
@@ -367,6 +390,7 @@ exports.default = {
             "type": "NewSession"
         },
         {
+            "@": MTProto,
             "id": 1945237724,
             "predicate": "msg_container",
             "params": [
@@ -378,6 +402,7 @@ exports.default = {
             "type": "MessageContainer"
         },
         {
+            "@": MTProto,
             "id": 1538843921,
             "predicate": "message",
             "params": [
@@ -401,6 +426,7 @@ exports.default = {
             "type": "Message"
         },
         {
+            "@": MTProto,
             "id": -530561358,
             "predicate": "msg_copy",
             "params": [
@@ -412,6 +438,7 @@ exports.default = {
             "type": "MessageCopy"
         },
         {
+            "@": MTProto,
             "id": 812830625,
             "predicate": "gzip_packed",
             "params": [
@@ -423,6 +450,7 @@ exports.default = {
             "type": "Object"
         },
         {
+            "@": MTProto,
             "id": 1658238041,
             "predicate": "msgs_ack",
             "params": [
@@ -434,6 +462,7 @@ exports.default = {
             "type": "MsgsAck"
         },
         {
+            "@": MTProto,
             "id": -1477445615,
             "predicate": "bad_msg_notification",
             "params": [
@@ -453,6 +482,7 @@ exports.default = {
             "type": "BadMsgNotification"
         },
         {
+            "@": MTProto,
             "id": -307542917,
             "predicate": "bad_server_salt",
             "params": [
@@ -476,6 +506,7 @@ exports.default = {
             "type": "BadMsgNotification"
         },
         {
+            "@": MTProto,
             "id": 2105940488,
             "predicate": "msg_resend_req",
             "params": [
@@ -487,6 +518,7 @@ exports.default = {
             "type": "MsgResendReq"
         },
         {
+            "@": MTProto,
             "id": -630588590,
             "predicate": "msgs_state_req",
             "params": [
@@ -498,6 +530,7 @@ exports.default = {
             "type": "MsgsStateReq"
         },
         {
+            "@": MTProto,
             "id": 81704317,
             "predicate": "msgs_state_info",
             "params": [
@@ -513,6 +546,7 @@ exports.default = {
             "type": "MsgsStateInfo"
         },
         {
+            "@": MTProto,
             "id": -1933520591,
             "predicate": "msgs_all_info",
             "params": [
@@ -528,6 +562,7 @@ exports.default = {
             "type": "MsgsAllInfo"
         },
         {
+            "@": MTProto,
             "id": 661470918,
             "predicate": "msg_detailed_info",
             "params": [
@@ -551,6 +586,7 @@ exports.default = {
             "type": "MsgDetailedInfo"
         },
         {
+            "@": MTProto,
             "id": -2137147681,
             "predicate": "msg_new_detailed_info",
             "params": [
@@ -572,6 +608,7 @@ exports.default = {
     ],
     "methods": [
         {
+            "@": MTProto,
             "id": 1615239032,
             "method": "req_pq",
             "params": [
@@ -583,6 +620,7 @@ exports.default = {
             "type": "ResPQ"
         },
         {
+            "@": MTProto,
             "id": -686627650,
             "method": "req_DH_params",
             "params": [
@@ -614,6 +652,7 @@ exports.default = {
             "type": "Server_DH_Params"
         },
         {
+            "@": MTProto,
             "id": -184262881,
             "method": "set_client_DH_params",
             "params": [
@@ -633,6 +672,7 @@ exports.default = {
             "type": "Set_client_DH_params_answer"
         },
         {
+            "@": MTProto,
             "id": 1491380032,
             "method": "rpc_drop_answer",
             "params": [
@@ -644,6 +684,7 @@ exports.default = {
             "type": "RpcDropAnswer"
         },
         {
+            "@": MTProto,
             "id": -1188971260,
             "method": "get_future_salts",
             "params": [
@@ -655,6 +696,7 @@ exports.default = {
             "type": "FutureSalts"
         },
         {
+            "@": MTProto,
             "id": 2059302892,
             "method": "ping",
             "params": [
@@ -666,6 +708,7 @@ exports.default = {
             "type": "Pong"
         },
         {
+            "@": MTProto,
             "id": -213746804,
             "method": "ping_delay_disconnect",
             "params": [
@@ -681,6 +724,7 @@ exports.default = {
             "type": "Pong"
         },
         {
+            "@": MTProto,
             "id": -414113498,
             "method": "destroy_session",
             "params": [
@@ -692,6 +736,7 @@ exports.default = {
             "type": "DestroySessionRes"
         },
         {
+            "@": MTProto,
             "id": -1835453025,
             "method": "http_wait",
             "params": [
