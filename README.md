@@ -12,6 +12,7 @@ npm install protov-tl-schema
 Yarn:
 ```shell script
 yarn add protov-tl-schema
+```
 
 Specific version:
 ```shell script
