@@ -1,6 +1,6 @@
 {
   "name": "protov-tl-schema",
-  "version": "2.113.0",
+  "version": "2.113.1",
   "description": "Current TL-schema as NPM package.",
   "author": "Davyd Kohut",
   "license": "MIT",

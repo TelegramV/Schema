@@ -1,1 +1,1 @@
-declare module "@telegramv/schema";
+declare module "protov-tl-schema";
